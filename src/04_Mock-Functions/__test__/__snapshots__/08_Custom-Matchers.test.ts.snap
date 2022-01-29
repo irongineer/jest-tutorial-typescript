@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Use custom matcher functions in order to make it less demanding to assert how mock functions have been called. 1`] = `
+[MockFunction a mock name] {
+  "calls": Array [
+    Array [
+      42,
+      1,
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": 43,
+    },
+  ],
+}
+`;
